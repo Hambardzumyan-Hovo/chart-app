@@ -1,6 +1,7 @@
 {
   "name": "chart",
-  "version": "0.1.0",
+  "author": "Hovo Hambardzumyan",
+  "version": "1.0.0",
   "homepage": "https://Hambardzumyan-Hovo.github.io/chart-app",
   "private": true,
   "dependencies": {
