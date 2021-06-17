@@ -1,0 +1,7 @@
+.numberWrapper {
+  flex-direction: row !important;
+}
+
+.numberWrapper input {
+  text-align: center;
+}
