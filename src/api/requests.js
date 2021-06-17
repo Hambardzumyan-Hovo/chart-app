@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL = 'http://beta.softberg.org/api';
+const BASE_URL = 'https://beta.softberg.org/api';
 
 const AXIOS = axios.create({
   baseURL: BASE_URL,
